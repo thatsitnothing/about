@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "thatsitnothing.github.io/about/static/css/main.81fc1b2b.chunk.css",
-    "main.js": "thatsitnothing.github.io/about/static/js/main.fd27a366.chunk.js",
-    "main.js.map": "thatsitnothing.github.io/about/static/js/main.fd27a366.chunk.js.map",
-    "runtime-main.js": "thatsitnothing.github.io/about/static/js/runtime-main.d33a33b9.js",
-    "runtime-main.js.map": "thatsitnothing.github.io/about/static/js/runtime-main.d33a33b9.js.map",
-    "static/js/2.02757947.chunk.js": "thatsitnothing.github.io/about/static/js/2.02757947.chunk.js",
-    "static/js/2.02757947.chunk.js.map": "thatsitnothing.github.io/about/static/js/2.02757947.chunk.js.map",
-    "index.html": "thatsitnothing.github.io/about/index.html",
-    "precache-manifest.6aee84107316a13f2581a2c421386537.js": "thatsitnothing.github.io/about/precache-manifest.6aee84107316a13f2581a2c421386537.js",
-    "service-worker.js": "thatsitnothing.github.io/about/service-worker.js",
-    "static/css/main.81fc1b2b.chunk.css.map": "thatsitnothing.github.io/about/static/css/main.81fc1b2b.chunk.css.map",
-    "static/js/2.02757947.chunk.js.LICENSE": "thatsitnothing.github.io/about/static/js/2.02757947.chunk.js.LICENSE"
+    "main.css": "/about/static/css/main.81fc1b2b.chunk.css",
+    "main.js": "/about/static/js/main.0d81b96c.chunk.js",
+    "main.js.map": "/about/static/js/main.0d81b96c.chunk.js.map",
+    "runtime-main.js": "/about/static/js/runtime-main.778d420d.js",
+    "runtime-main.js.map": "/about/static/js/runtime-main.778d420d.js.map",
+    "static/js/2.a0ef95f2.chunk.js": "/about/static/js/2.a0ef95f2.chunk.js",
+    "static/js/2.a0ef95f2.chunk.js.map": "/about/static/js/2.a0ef95f2.chunk.js.map",
+    "index.html": "/about/index.html",
+    "precache-manifest.026b8a2412133bba30c8f6406ecad166.js": "/about/precache-manifest.026b8a2412133bba30c8f6406ecad166.js",
+    "service-worker.js": "/about/service-worker.js",
+    "static/css/main.81fc1b2b.chunk.css.map": "/about/static/css/main.81fc1b2b.chunk.css.map",
+    "static/js/2.a0ef95f2.chunk.js.LICENSE": "/about/static/js/2.a0ef95f2.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.d33a33b9.js",
-    "static/js/2.02757947.chunk.js",
+    "static/js/runtime-main.778d420d.js",
+    "static/js/2.a0ef95f2.chunk.js",
     "static/css/main.81fc1b2b.chunk.css",
-    "static/js/main.fd27a366.chunk.js"
+    "static/js/main.0d81b96c.chunk.js"
   ]
 }
